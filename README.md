@@ -1,5 +1,5 @@
-# Foxster's AltSource
+# iSource
 
-AltStore source with tweaked apps and possibly more.
+AltStore source.
 
-[Preview](https://therealfoxster.github.io/altsource-viewer/view/?source=https://therealfoxster.github.io/altsource/apps.json)
+[Preview](https://soleil-des-chats.github.io/iSource/view/?source=https://soleil-chats.github.io/iSource/apps.json)
