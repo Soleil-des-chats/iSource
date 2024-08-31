@@ -1,9 +1,9 @@
 {
-    "name": "Foxster's AltSource",
-    "identifier": "me.foxster.AltSource",
-    "subtitle": "Foxster's AltStore source.",
-    "description": "AltStore source with tweaked apps and possibly more.",
-    "website": "https://github.com/therealFoxster/altsource",
+    "name": "iSource AltStore",
+    "identifier": "me.sdc.iSource",
+    "subtitle": "iSource",
+    "description": "AltStore source with many apps.",
+    "website": "https://github.com/soleil-des-chats/iSource",
     "iconURL": "https://avatars.githubusercontent.com/u/77606385",
     "tintColor": "D85240",
     "apps": [
